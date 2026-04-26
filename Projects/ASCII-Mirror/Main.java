@@ -7,7 +7,7 @@ public class Main {
         System.out.println("                    ------- ");
         System.out.println("            ^__^   /        ");
         System.out.println("    _______/(oo)  /         ");
-        System.out.println("/\/(       /(__)            ");
+        System.out.println("/\\/(       /(__)            ");
         System.out.println("   | w----||                ");
         System.out.println("   ||     ||                ");
     }
